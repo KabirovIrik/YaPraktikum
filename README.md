@@ -19,6 +19,20 @@
 <li><a href="https://github.com/KabirovIrik/YaPraktikum/tree/master/15_final">Выпускной проект</a></li>
 </ol>
 
+<p>
+	Стек технологий
+	<ul>
+		<li><b>pandas</b> — работа с данными</li>
+		<li><b>numpy</b> — работа с матрицами и использование математических операций</li>
+		<li><b>seaborn, matplotlib</b> — визуализация данных</li>
+		<li><b>scikit-learn</b> — использование моделей машинного обучения, метрик и т.п.</li>
+		<li><b>statsmodels</b> — изучение сезонности и тренда временных рядов</li>
+		<li><b>scipy</b> — статистический анализ данных, проверка гипотез</li>
+		<li><b>lightgbm, catboost, xgboost</b> — модели машинного обучения</li>
+		<li><b>tensorflow</b> — создание нейронных сетей</li>
+		<li><b>nltk</b> — обработка текстов</li>
+	</ul>
+</p>
 
 
 
