@@ -18,7 +18,7 @@
 <li><a href="https://github.com/KabirovIrik/YaPraktikum/tree/master/14_machine_learning_text">Машинное обучение для текстов</a></li>
 <li><a href="https://github.com/KabirovIrik/YaPraktikum/tree/master/15_final">Выпускной проект</a></li>
 </ol>
-
+<br>
 <p>
 	Стек технологий
 	<ul>
